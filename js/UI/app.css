@@ -1,0 +1,35 @@
+ 
+  
+  .empty-space {
+    padding: 5px;
+  }
+
+  .restaurant-name {
+    font-family: 'Oswald', sans-serif !important;
+    padding-left:5px;
+    font-size:16px; 
+  }
+
+  .restaurant-description {
+    font-family: 'Droid Sans', serif;
+    font-style:italic;
+    padding-left:5px;
+    font-size:14px;
+  }
+
+  .restaurant-type {
+    font-family: 'Inconsolata', serif;
+    padding-left:5px;
+  }
+
+  .restaurant-phone {
+    font-family: 'Inconsolata', serif;
+    padding-left:5px;
+    font-size:14px;
+  }
+
+  .restaurant-location {
+    font-family: 'Inconsolata', serif;
+    padding-left:5px;
+    font-size:14px;
+  }
